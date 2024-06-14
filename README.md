@@ -1,4 +1,4 @@
-# Vander Moleker - Full Stack Developer
+# Full Stack Developer
 
 ## noierrdev@gmail.com
   I am dreaming about new Web.
