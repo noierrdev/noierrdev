@@ -1,4 +1,3 @@
 # Software Developer - Solana | Blockchain
 
-## noierrdev@gmail.com
-  I am dreaming about new Web.
+I am really excited about working with Solana infras and rust programming language.
